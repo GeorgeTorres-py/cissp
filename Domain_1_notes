@@ -1,10 +1,14 @@
-<!DOCTYPE> 
+<!DOCTYPE html>
 <html>
 <head>
 <b>
 Security Objective:
 </b>
+<body>
 -Security refers to the protection of information systems from unauthorized access, disclosure, alteration, or destruction.
 -Security measures are designed to prevent attacks or breaches that could compromise the confidentiality, integrity, or availability of the information or system.
 -Security Measures may include physical and technical safe guards, access controls, encryption, and monitoring.
 
+</body>
+</head>
+</html>
